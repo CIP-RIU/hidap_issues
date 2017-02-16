@@ -15,4 +15,5 @@ Repository for all the issue encountered in HIDAP
 ### How to report erros/issues
 
 #### Step 1
-[paso_1.jpg](https://postimg.org/image/9kviccha7/)
+
+[![paso_1.jpg](https://s27.postimg.org/ji6j5eow3/paso_1.jpg)](https://postimg.org/image/9kviccha7/)
