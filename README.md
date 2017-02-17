@@ -7,7 +7,7 @@
 
 # Versión en Español
 
-#### Módelo para reportar errores/mejoras en HIDAP
+#### Modelo para reportar errores/mejoras en HIDAP
 
 - Módulo: El nombre del modulo que debe ser corregido o mejorado
 
