@@ -5,7 +5,7 @@
 
 [es] Repositorio para los errores/mejoras de HIDAP
 
-### Versión en Español
+# Versión en Español
 
 #### Módelo para reportar errores/mejoras en HIDAP
 
@@ -43,7 +43,7 @@ Ir al link: https://github.com/omarbenites/hidap_issues/issues
 
 
 
-### English Version
+# English Version
 
 
 #### Model of how to report
