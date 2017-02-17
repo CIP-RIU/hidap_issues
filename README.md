@@ -52,7 +52,7 @@ Ir al link: https://github.com/omarbenites/hidap_issues/issues
 
 - Module: The module where the bug/enhacement should be fixed or enhaced.
 
-- Description: Details about the bug/enhacement founded.
+- Description: Details about the bug/enhacement found.
 
 - File: Upload the file. 
 
