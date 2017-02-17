@@ -56,7 +56,7 @@ Ir al link: https://github.com/omarbenites/hidap_issues/issues
 
 - File: Upload the file. 
 
-- Figures: An screenshot of the bug or error. You can do it simply : Press **PrinScreen** key to capture your image, and then **CTRL+V** (paste) to paste it. 
+- Figures: An screenshot of the bug or error. You can do it simply : Press **PrintScreen** key to capture your image, and then **CTRL+V** (paste) to paste it. 
 
 
 #### How do I report an issue/enhancement?
