@@ -15,6 +15,8 @@
 
 - Subir: Subir el archivo
 
+- Figura: Hacer un screenshot o captura del pantalla del error. Presionar PrintScreen y luego ctrl+V (pegar) 
+
 #### Cómo reporto un error o mejora?
 
 ##### Paso 1 : Ir a Github Issues (segundo Tab)
@@ -53,6 +55,8 @@ Ir al link: https://github.com/omarbenites/hidap_issues/issues
 - Description: Details about the bug/enhacement founded.
 
 - File: Upload the file. 
+
+- Figures: An screenshot of the bug or error. You can do it simply : Press PrinScreen and then ctrl+V (paste) 
 
 
 #### How do I report an issue/enhancement?
