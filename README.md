@@ -3,15 +3,15 @@
 [en] Repository for all the issues/enhancements of HIDAP
 [es] Repositorio para los errores/mejoras de HIDAP
 
-## Version en Español
+## Versión en Español
 
-### Modelo para reportar errores/mejoras en HIDAP
+### Módelo para reportar errores/mejoras en HIDAP
 
-- Error: Titulo del error 
+- Módulo: El nombre del modulo que debe ser corregido o mejorado
 
-- Detalles: Detalles del error encontrado.
+- Detalles: Detalles del error o mejora.
 
-- Subir [Archivo]
+- Subir: Subir el archivo
 
 ### Cómo reporto un error o mejora?
 
@@ -46,11 +46,12 @@ https://github.com/omarbenites/hidap_issues/issues
 
 ### Model of how to report
 
-- Error: Titulo del error 
+- Module: The module where the bug/enhacement should be fixed or enhaced.
 
-- Detalles: Detalles del error encontrado.
+- Detalles: Details about the bug/enhacement founded.
 
-- Subir [Archivo]
+- File: Upload the file. 
+
 
 ### How do I report an issue/enhancement?
 
