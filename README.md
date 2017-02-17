@@ -15,7 +15,7 @@
 
 - Subir: Subir el archivo
 
-- Figura: Hacer un screenshot o captura del pantalla del error. Presionar las teclas **PrintScreen** y luego **CTRL+V** (pegar) 
+- Figura: Hacer un screenshot o captura del error. Presionar las teclas **PrintScreen** para capturar la imagen y luego **CTRL+V** para pegar.
 
 #### Cómo reporto un error o mejora?
 
@@ -56,7 +56,7 @@ Ir al link: https://github.com/omarbenites/hidap_issues/issues
 
 - File: Upload the file. 
 
-- Figures: An screenshot of the bug or error. You can do it simply : Press **PrinScreen** key and then **CTRL+V** (paste) 
+- Figures: An screenshot of the bug or error. You can do it simply : Press **PrinScreen** key to capture your image, and then **CTRL+V** (paste) to paste it. 
 
 
 #### How do I report an issue/enhancement?
