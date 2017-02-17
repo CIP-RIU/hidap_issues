@@ -1,4 +1,4 @@
-# hidap_issues
+# HIDAP Issues and Enhancements
 
 [en] Repository for all the issues/enhancements of HIDAP
 
