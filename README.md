@@ -1,6 +1,8 @@
 # hidap_issues
 
 [en] Repository for all the issues/enhancements of HIDAP
+
+
 [es] Repositorio para los errores/mejoras de HIDAP
 
 ## Versión en Español
