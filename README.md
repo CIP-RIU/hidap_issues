@@ -5,9 +5,9 @@
 
 [es] Repositorio para los errores/mejoras de HIDAP
 
-## Versión en Español
+### Versión en Español
 
-### Módelo para reportar errores/mejoras en HIDAP
+#### Módelo para reportar errores/mejoras en HIDAP
 
 - Módulo: El nombre del modulo que debe ser corregido o mejorado
 
@@ -15,21 +15,21 @@
 
 - Subir: Subir el archivo
 
-### Cómo reporto un error o mejora?
+#### Cómo reporto un error o mejora?
 
-#### Paso 1 : Ir a Github Issues (segundo Tab)
+##### Paso 1 : Ir a Github Issues (segundo Tab)
 
 Ir al link: https://github.com/omarbenites/hidap_issues/issues
 
 
 [![paso_1.jpg](https://s27.postimg.org/ji6j5eow3/paso_1.jpg)](https://postimg.org/image/9kviccha7/)
 
-#### Paso 2: Click en el button (New Issue)
+##### Paso 2: Click en el button (New Issue)
 
 [![paso_2.jpg](https://s13.postimg.org/qmkqeiiuv/paso_2.jpg)](https://postimg.org/image/5cx43o2k3/)
 
 
-#### Paso 3: Enviar el reporte
+##### Paso 3: Enviar el reporte
 
 [![paso_3.jpg](https://s18.postimg.org/5jft9uj2h/paso_3.jpg)](https://postimg.org/image/6yhdykk5h/)
 
