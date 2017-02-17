@@ -11,7 +11,7 @@
 
 - Módulo: El nombre del modulo que debe ser corregido o mejorado
 
-- Detalles: Detalles del error o mejora.
+- Descripción: Detalles del error o mejora.
 
 - Subir: Subir el archivo
 
@@ -50,7 +50,7 @@ Ir al link: https://github.com/omarbenites/hidap_issues/issues
 
 - Module: The module where the bug/enhacement should be fixed or enhaced.
 
-- Detalles: Details about the bug/enhacement founded.
+- Description: Details about the bug/enhacement founded.
 
 - File: Upload the file. 
 
